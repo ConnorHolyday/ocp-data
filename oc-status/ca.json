@@ -1,0 +1,42 @@
+{
+  "iso": "ca",
+  "name": "Canada",
+  "full_name": "Canada",
+  "meta": {
+    "date": 1483563579345
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Montreal City Contract Award Portal",
+        "innovation_link": "http://ville.montreal.qc.ca/vuesurlescontrats"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Public Works and Government Services Canada",
+        "publisher_link": "https://buyandsell.gc.ca/procurement-data/open-contracting-data-standard-pilot/about-the-ocds-pilot",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false
+      },
+      {
+        "publisher": "City of Montreal",
+        "publisher_link": "http://ville.montreal.qc.ca/vuesurlescontrats",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false
+      }
+    ],
+    "ocds_description": "Public Works and Government Services Canada are involved in a shared project to publish historic data using the OCDS. The City of Montreal publishes ongoing data in OCDS.",
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "OGP National Action Plan 2014-15",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Canada%20Action%20Plan%20on%20Open%20Government%202014-16%20%28EN%29_1.pdf"
+      },
+      {
+        "ogp_commitment": "OGP National Action Plan 2016-18",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Canada_AP3.pdf"
+      }
+    ]
+  }
+}

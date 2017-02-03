@@ -1,0 +1,26 @@
+{
+  "iso": "co",
+  "name": "Colombia",
+  "full_name": "Colombia – Republic of Colombia",
+  "meta": {
+    "date": 1472641373583
+  },
+  "results": {
+    "innovations": [],
+    "publishers": [
+      {
+        "publisher": "Colombia Compra",
+        "ocds_implementation": true,
+        "ocds_ongoing_data": true,
+        "ocds_historic_data": true,
+        "publisher_link": "http://www.colombiacompra.gov.co/transparencia/gestion-documental/datos-abiertos"
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "National Action Plan",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/Open%20%20Government%20Partnership%20%28Inglés%29Documento%20enviado%20OGP.docx"
+      }
+    ]
+  }
+}

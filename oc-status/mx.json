@@ -1,0 +1,49 @@
+{
+  "iso": "mx",
+  "name": "Mexico",
+  "full_name": "Mexico – United Mexican States",
+  "meta": {
+    "date": 1473366662664
+  },
+  "results": {
+    "innovations": [
+      {
+        "innovation_description": "Social Witness",
+        "innovation_link": "http://www.opengovguide.com/country-examples/in-mexico-social-witnesses-oversee-public-procurement/"
+      },
+      {
+        "innovation_description": "Compranet Business Intelligence Tool",
+        "innovation_link": "https://compranetim.funcionpublica.gob.mx/CompranetIMindex.html"
+      }
+    ],
+    "publishers": [
+      {
+        "publisher": "Mexico City",
+        "publisher_link": "http://www.contratosabiertos.cdmx.gob.mx/",
+        "ocds_implementation": false,
+        "ocds_ongoing_data": true
+      },
+      {
+        "publisher": "Ministry of Communications Telecom PPP",
+        "publisher_link": "http://datos.gob.mx/redcompartida/",
+        "ocds_historic_data": false,
+        "ocds_ongoing_data": true,
+        "ocds_implementation": false
+      },
+      {
+        "publisher": " New International Airport of Mexico City",
+        "publisher_link": "http://busca.datos.gob.mx/#!/instituciones/gacm/",
+        "ocds_historic_data": true,
+        "ocds_ongoing_data": false,
+        "ocds_implementation": false
+      }
+    ],
+    "ogp_commitments": [
+      {
+        "ogp_commitment": "National Action Plan",
+        "ogp_commitment_link": "http://www.opengovpartnership.org/sites/default/files/pa_aga_2015%20%281%29.pdf"
+      }
+    ],
+    "citizen_monitoring": true
+  }
+}
